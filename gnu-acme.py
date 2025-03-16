@@ -72,6 +72,7 @@ TARGETS = {
     "9a9c6aeba5df4178de168e26fe30ddcdab47d374": 580,
     "e7b1e0ff3d359623538f4ae0ac69b3e8db26b674": 580,
     "956d98a11b839e3392fa1b367b1e3fdfc3e662f6": 322,
+    "35b410ef6ccdab4a7edeb2fdf801b8b65e8d19cc": 580,
 }
 
 libc = cdll.LoadLibrary("libc.so.6")
